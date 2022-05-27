@@ -1,3 +1,2 @@
-﻿  Application.cpp
-C:\Users\Laurin\OneDrive\dev\Fulcrum\Sandbox\src\Application.cpp(8,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
-  Sandbox.vcxproj -> C:\Users\Laurin\OneDrive\dev\Fulcrum\bin\Debug-x64\Sandbox\Sandbox.exe
+﻿  SandboxApp.cpp
+  Sandbox.vcxproj -> C:\Users\lauri\OneDrive\dev\Fulcrum\bin\Debug-x64\Sandbox\Sandbox.exe
